@@ -1,3 +1,11 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+
 #section-one {
     background-image: url("../imgs/top-color.jpg");
     background-repeat: repeat-x;
@@ -8,7 +16,7 @@
     margin-top: 40px;
 }
 #section-three {
-    margin-top: 80px;
+    margin-top: 150px;
 }
 #logo{
     width: 165px;
@@ -94,6 +102,9 @@
     }
     #left {
         line-height: 31px;
+    }
+    .footer {
+        margin-top: 100px;
     }
 }
 

@@ -16,5 +16,5 @@ sr.reveal('.stack-of-cookies', {
 sr.reveal('#pie', {
     duration: 1000,
     origin: 'bottom',
-    distance: '200px'
+    distance: '20px'
 })
