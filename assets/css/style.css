@@ -4,12 +4,11 @@ html {
     height: 100%;
     margin: 0;
 }
-
-
 #section-one {
+    background-color: #504329;
     background-image: url("../imgs/top-color.jpg");
-    background-repeat: repeat-x;
-    /* background-color: #504329; */
+    background-size: cover;
+    background-size: 100% 100%;
     height: 370px;
 }
 #section-two {
@@ -76,11 +75,27 @@ html {
 .center-btn {
     display:inline-block;
 }
+.info {
+    font-size: 12px;
+    display: inline-block;
+    text-align: left;
+}
+hr {
+    margin-top: 0;
+    margin-bottom:0;
+}
+#bold {
+    font-weight: bold;
+}
 #pie {
     width: 200px;
 }
 .footer {
     font-size: 12px;
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 @media only screen and (max-width: 1216px) {
@@ -102,9 +117,6 @@ html {
     }
     #left {
         line-height: 31px;
-    }
-    .footer {
-        margin-top: 100px;
     }
 }
 
@@ -183,5 +195,9 @@ html {
     #pie {
         margin-top: 20px;
         width: 145px;
+    }
+    .footer {
+        margin-top: 20px;
+        position: initial;
     }
 }
