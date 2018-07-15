@@ -92,6 +92,7 @@ hr {
 }
 .map {
     text-align: center;
+    border-right: 2px solid rgba(118, 118, 118, 0.227);
 }
 .footer {
     font-size: 12px;
@@ -109,6 +110,12 @@ hr {
     }
     .pie {
         display: none;
+    }
+    .map {
+        padding-right: 0;
+    }
+    .about {
+        padding-left:27px;
     }
 }
 
@@ -182,4 +189,7 @@ hr {
         margin-top: 20px;
         position: initial;
     }
+    .map {
+        border-right: 0px;
+}
 }
