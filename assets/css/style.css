@@ -92,6 +92,9 @@
         line-height: 35px;
         margin-bottom: 10px;
     }
+    #left {
+        line-height: 31px;
+    }
 }
 
 @media only screen and (max-width: 767px) {
