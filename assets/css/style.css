@@ -94,7 +94,7 @@ hr {
     font-size: 12px;
     clear: both;
     position: fixed;
-    bottom: 0;
+    bottom: 5px;
     width: 100%;
 }
 
