@@ -110,7 +110,6 @@ hr {
     .pie {
         display: none;
     }
-
 }
 
 @media only screen and (max-width: 767px) {
@@ -165,7 +164,6 @@ hr {
         order: 1;
         margin-left: auto;
       }
-
     .pie {
         -webkit-box-ordinal-group: 3;
         -moz-box-ordinal-group: 3;
