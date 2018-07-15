@@ -75,6 +75,19 @@
     font-size: 12px;
 }
 
+@media only screen and (max-width: 1216px) {
+    .pie {
+        display: none;
+    }
+    .about {
+        margin-left: 148px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+  
+}
+
 @media only screen and (max-width: 767px) {
     #section-one {
         height: auto;
@@ -101,7 +114,8 @@
     }
 
     #section-three {
-        margin-top: 20px;
+        margin-top: 40px;
+        height: auto;
     }
     .center-btn {
         width: 80%;
@@ -133,6 +147,7 @@
         -ms-flex-order: 1;
         -webkit-order: 1;
         order: 1;
+        margin-left: auto;
       }
 
     .pie {
@@ -143,6 +158,7 @@
         order: 3;
         margin-top: 10;
         text-align: center;
+        display: block;
     }
     #pie {
         margin-top: 20px;
