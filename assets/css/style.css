@@ -85,7 +85,13 @@
     h2 {
         font-size: 25px;
     }
-  
+    #section-one {
+        height: 390px;
+    }
+    .title {
+        line-height: 35px;
+        margin-bottom: 10px;
+    }
 }
 
 @media only screen and (max-width: 767px) {
