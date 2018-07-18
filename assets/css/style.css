@@ -15,7 +15,7 @@ html {
     margin-top: 40px;
 }
 #section-three {
-    margin-top: 150px;
+    margin-top: 40px;
 }
 #logo{
     width: 165px;
@@ -97,9 +97,7 @@ hr {
 .footer {
     font-size: 12px;
     clear: both;
-    position: fixed;
-    bottom: 5px;
-    width: 100%;
+    height: 20px;
 }
 
 @media only screen and (max-width: 1216px) {
@@ -117,10 +115,10 @@ hr {
     .about {
         padding-left:27px;
     }
-    .footer {
+    /* .footer {
         margin-top: 20px;
         position: initial;
-    }
+    } */
     #section-three {
         margin-top: 20px;
     }
@@ -192,10 +190,10 @@ hr {
         margin-top: 20px;
         width: 145px;
     }
-    .footer {
+    /* .footer {
         margin-top: 20px;
         position: initial;
-    }
+    } */
     .map {
         border-right: 0px;
 }
