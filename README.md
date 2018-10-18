@@ -11,7 +11,7 @@ mockups. Enjoy!
 - Reveal JS
 
 ## Link to Working Site
-[http://www.randy-gentry.com/walters-bakery/]http://www.randy-gentry.com/walters-bakery/
+http://www.randy-gentry.com/walters-bakery/
 
 ## Link to the Deviant Art Site
 
